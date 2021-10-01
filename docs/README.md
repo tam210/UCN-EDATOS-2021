@@ -21,7 +21,7 @@
 
 ### Documentos
 
-* [Reporte Técnico](docs/README.md)
+* [Reporte Técnico](README.md)
 
 
 
