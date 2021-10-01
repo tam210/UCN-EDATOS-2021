@@ -10,6 +10,9 @@
 * Alumno 01 (Rol)
 * Alumno 02 (Rol)
 
+[Bitácora](BITACORA.md)
+
+
 ## Resumen 
 
 > Agregar un resumen que describa el trabajo realizado y sus resultados. (Entre 150 y 180 palabras)
