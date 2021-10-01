@@ -1,6 +1,6 @@
 # Bitácora
 
-[(Volver)](UCN-EDATOS/README.md)
+[(Volver)](README.md)
 
 | Fecha  | Actividad | Trabajo Realizado | Responsable | Tiempo Estimado | Tiempo Real |
 |--------|-----------|-------------------|-------------|-----------------|-------------|
