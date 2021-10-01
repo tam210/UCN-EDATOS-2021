@@ -9,10 +9,6 @@
 * Alumno 01 (Rol)
 * Alumno 02 (Rol)
 
-### Bitácora
-
-[Ver Bitácora](BITACORA.md)
-
 ### Resumen
 
 <Agregar el resumen del reporte técnico>
