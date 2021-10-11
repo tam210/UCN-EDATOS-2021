@@ -42,11 +42,15 @@ El fin que se desea llegar. (Comenzar con un verbo: "Construir un sistema...", "
 
 Los objetivos específicos son acciones específicas que son desarrolladas para lograr cumplir el objetivo general, por ejemplo:
 
-1. Investigar  el  estado  del  arte  de  visión  por  computador  y  audio  para  resolver  tareas de  clasificación unimodal y multimodal aplicado  al  problema  de  reconocimiento  de emociones.
-2.  Seleccionar  uno  o  dos  métodos  estudiados  en  el  estado  del  arte  para  la  estimación  de  laemoción utilizando datos unimodales o multimodales.
-3.  Implementar los métodos seleccionados utilizando el lenguaje de programación Python y laslibrerías suministradas por Pytorch.
-4.  Validar  los  resultados  por  medio  bases  de  datos  especializadas  para  el  desarrollo  deaplicaciones basadas en la estimación de la emoción y que incluyan varios modos de atributoscomo: imágenes, sonido y/o texto.
-5.  Proponer  mejoras  a  los  modelos  implementados  para  mejorar  su  desempeño  en  futurasimplementaciones o proyectos de investigación.
+1. 	Investigar el funcionamiento de las librerías de OpenCV para comprender el funcionamiento de los algoritmos relacionados al reconocimiento facial.
+2. 	Implementar las librerías de OpenCV utilizando el lenguaje de programación C++ para realizar el seguimiento e identificación facial.
+3. 	Señalar un marco de color rojo alrededor de cada rostro identificado para visualizar de mejor manera la identidad.
+4. 	Definir un código de identidad a cada rostro identificado para poder diferenciarlas entre las demás.
+5. 	Establecer intervalos de tiempo en la secuencia de video para obtener las diferentes identidades que se vieron identificadas específicamente en ese lapso.
+6. 	Obtener las cinco identidades que más tiempo fueron detectadas en la grabación.
+7. 	Crear un listado de todas las identidades detectadas indicando el tiempo total de las veces que aparecieron en la grabación.
+8. 	Comprobar el correcto funcionamiento del programa a través del uso de distintos archivos multimedia.
+
 6.  Difundir los resultados en medios científicos nacionales o internacionales.
 
 ### 1.3 Solución propuesta
